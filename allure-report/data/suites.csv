@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2700","Checking the CI/CD works fine in the github action","chromium","2026-05-25","passed","2026-05-25","","test2.spec.ts","",""
+"","2817","should add items to the cart","chromium","2026-05-25","passed","2026-05-25","","test.spec.ts","",""
+"","3025","should remove items from the cart","chromium","2026-05-25","passed","2026-05-25","","test.spec.ts","",""
+"","3151","should complete the checkout process","chromium","2026-05-25","passed","2026-05-25","","test.spec.ts","",""
+"","2567","should have the correct title","chromium","2026-05-25","passed","2026-05-25","","test.spec.ts","",""

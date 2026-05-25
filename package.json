@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "test:uat": "cross-env testenv=uat npx playwright test"
+    "test:uat": "cross-env testenv=uat npx playwright test"
   },
   "keywords": [],
   "author": "",
@@ -12,7 +12,9 @@
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.60.0",
-    "@types/node": "^25.8.0"
+    "@types/node": "^25.8.0",
+    "allure-commandline": "^2.41.0",
+    "allure-playwright": "^3.9.0"
   },
   "dependencies": {
     "cross-env": "^10.1.0",
