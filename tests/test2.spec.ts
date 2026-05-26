@@ -41,3 +41,5 @@ test("Checking the CI/CD works fine in the github action", async({ page }) => {
 // Today I am playing with webautomation (playwright and I will go further on the other important tools like
 // restassured, pytest, selenium a java framework for web automation )
 // hthanks to God which reaches me in this precius goaldedn opportunites for my life. Thanks
+
+// html reporting was failled due to the path error that I have given during configration.
