@@ -8,6 +8,7 @@ test("Checking the CI/CD works fine in the github action", async({ page }) => {
     await expect(page.locator("//*[@class='inventory_item_name '][text()='Sauce Labs Backpack']")).toBeVisible()
 })
 
+// Now I am claer with the concepts of git hub integration of jenkins for the rest of the other projects
 // one important issue that I have figuredout is that, if you use the envfiles, there should be a change 
 // in the playwright.yaml files of the github workflows. the changes are: 
 
