@@ -50,3 +50,5 @@ test("Checking the CI/CD works fine in the github action", async({ page }) => {
 //   https://hefty-fastness-caregiver.ngrok-free.dev/
 
 // money is evrything of your life. 
+
+// poll works fine
