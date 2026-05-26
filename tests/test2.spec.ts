@@ -5,7 +5,7 @@ test.beforeEach(async ({ page }) => {
 }); 
 
 test("Checking the CI/CD works fine in the github action", async({ page }) => {
-    await expect(page.locator("//*[@class='inventory_item_name '][text()='Sauce Labs Backpack23']")).toBeVisible()
+    await expect(page.locator("//*[@class='inventory_item_name '][text()='Sauce Labs Backpack']")).toBeVisible()
 })
 
 // one important issue that I have figuredout is that, if you use the envfiles, there should be a change 
