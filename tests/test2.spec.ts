@@ -31,3 +31,5 @@ test("Checking the CI/CD works fine in the github action", async({ page }) => {
 
 
 // Make sure that you have enabled the allure reporat format in the config flie so that you can 
+
+// always consistancy matters and bits what you are doing in this reaal world.
