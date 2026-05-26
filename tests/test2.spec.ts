@@ -43,3 +43,5 @@ test("Checking the CI/CD works fine in the github action", async({ page }) => {
 // hthanks to God which reaches me in this precius goaldedn opportunites for my life. Thanks
 
 // html reporting was failled due to the path error that I have given during configration.
+
+//ufhn
