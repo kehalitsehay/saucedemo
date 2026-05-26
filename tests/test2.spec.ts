@@ -45,3 +45,8 @@ test("Checking the CI/CD works fine in the github action", async({ page }) => {
 // html reporting was failled due to the path error that I have given during configration.
 
 //ufhn
+
+// this is was where my jenkins was insatalled for github integrations and other values
+//   https://hefty-fastness-caregiver.ngrok-free.dev/
+
+// money is evrything of your life. 
