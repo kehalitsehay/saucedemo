@@ -33,3 +33,11 @@ test("Checking the CI/CD works fine in the github action", async({ page }) => {
 // Make sure that you have enabled the allure reporat format in the config flie so that you can 
 
 // always consistancy matters and bits what you are doing in this reaal world.
+
+// when you go 1 step other than your collegues, you will be the firdt one in the near future.
+// walla done!!!
+// so happyy for my [playwright path.]//
+// It is amazing. Before three months, I know nothing about software testing wheher it is manual or automation. 
+// Today I am playing with webautomation (playwright and I will go further on the other important tools like
+// restassured, pytest, selenium a java framework for web automation )
+// hthanks to God which reaches me in this precius goaldedn opportunites for my life. Thanks
